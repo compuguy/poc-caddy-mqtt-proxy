@@ -2,8 +2,6 @@ module github.com/compuguy/poc-caddy-mqtt-proxy
 
 go 1.22.0
 
-toolchain go1.23.0
-
 require (
 	github.com/caddyserver/caddy/v2 v2.8.4
 	github.com/mholt/caddy-l4 v0.0.0-20241006075734-31ae08c39c2c
