@@ -152,3 +152,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	howett.net/plist v1.0.0 // indirect
 )
+
+replace github.com/hslatman/poc-caddy-mqtt-proxy => github.com/compuguy/poc-caddy-mqtt-proxy v0.0.0-20220831103011-a7286c6054fa
