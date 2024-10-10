@@ -1,4 +1,4 @@
-module github.com/hslatman/poc-caddy-mqtt-proxy
+module github.com/compuguy/poc-caddy-mqtt-proxy
 
 go 1.22.0
 
