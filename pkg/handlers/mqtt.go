@@ -18,8 +18,8 @@ import (
 	"fmt"
 
 	"github.com/caddyserver/caddy/v2"
-	"github.com/hslatman/poc-caddy-mqtt-proxy/internal/conn"
-	"github.com/hslatman/poc-caddy-mqtt-proxy/pkg/matchers"
+	"github.com/compuguy/poc-caddy-mqtt-proxy/internal/conn"
+	"github.com/compuguy/poc-caddy-mqtt-proxy/pkg/matchers"
 	"github.com/mholt/caddy-l4/layer4"
 	"go.uber.org/zap"
 )
